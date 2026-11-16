@@ -134,6 +134,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar)
 - [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario)
 - [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais)
+- [HumanPen](https://humanpen.net) - Plataforma de IA para tradução de documentos (12 idiomas, PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT preservando o layout), humanização em nível de documento (DOCX/PPTX/TXT), condensação (DOCX) e correção de citações (DOCX); 100 créditos no cadastro
 
 > ◾ Templates HTML gratuitos
 
